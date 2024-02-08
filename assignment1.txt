@@ -1,0 +1,91 @@
+1. hello world
+
+#include<stdio.h>
+ int main() {
+     printf ("hello world");
+     return 0;
+ }
+
+
+2. welcome to india
+
+#include<stdio.h>
+ int main() {
+     printf ("welcome to india");
+     return 0;
+ }
+
+
+3. five country name
+
+#include<stdio.h>
+ int main(){
+     printf ("five country name\n");
+     printf ("India,Japan,Australia,Switzerland,Dubai");
+     return 0;
+ }
+
+
+4. five friends name
+
+#include <stdio.h>
+int main() {
+    printf ("five friends name\n") ;
+    printf ("Manish,Abhishek,Arbaj,Ravi,Abhay");
+    return 0;
+}
+
+
+5. five states name
+
+#include<stdio.h>
+int main() {
+    printf("five states name\n");
+    printf("Rajasthan,Bikaner,Bihar,Assam,Gujarat");
+    return 0;
+}
+
+6. five fav food print
+
+#include<stdio.h>
+int main() {
+    printf("five fav. food print\n");
+    printf("Curry Rice,Pizza,Burger,Momos,Pan Cakes");
+    return 0;
+}
+
+7. five animal name print
+
+#include<stdio.h>
+int main() {
+    printf("five animal name print\n");
+    printf("Lion,Cheetah,Dogs,Cat,Cows");
+    return 0;
+}
+
+8. five city name print
+
+#include<stdio.h>
+int main() {
+    printf("five city name print\n");
+    printf("Jaipur, Ajmer, Bhilwara, Churu, Tonk");
+    return 0;
+}
+
+9. five english words
+
+#include<stdio.h>
+int main() {
+    printf("five english words\n");
+    printf("Hello, Hi, Guys, Smart, Looking");
+    return 0;
+}
+
+10. five name print
+
+#include<stdio.h>
+int main() {
+    printf("five name print\n");
+    printf("Rahul, Rohit, Ajay, Tarun, Pulkit");
+    return 0;
+}
